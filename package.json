@@ -1,0 +1,30 @@
+{
+  "name": "@lyre/chord",
+  "version": "1.0.0",
+  "description": "Utility for creating and manipulating music chords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Attibee/Lyre-Chord.git"
+  },
+  "keywords": [
+    "chord",
+    "attibee",
+    "music",
+    "lyre"
+  ],
+  "author": "Attibee",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Attibee/Lyre-Chord/issues"
+  },
+  "homepage": "https://github.com/Attibee/Lyre-Chord#readme",
+  "devDependencies": {
+    "@lyre/note": "0.1.0-alpha.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  }
+}
